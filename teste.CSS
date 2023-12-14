@@ -1,0 +1,70 @@
+.container{
+    background-color:#A6642C;
+    width: 200px;
+    height: 750px;
+    margin-top: -8px;
+    margin-left: 1288px;
+}
+#image{
+    display: block;
+    margin-top: -640px;
+    margin-left: 988px;
+}
+.quadradinho{
+    background-color:#A6642C;
+    width: 50px;
+    height: 50px;
+    border-radius: 5%;
+    margin-left: 958px;
+    margin-top: -200px;
+    display:inline-block;
+
+}
+
+.quadradinho2{
+    background-color:#A6642C;
+    width: 80px;
+    border-radius: 5%;
+    height: 80px;
+    margin-top: -230px;
+    margin-left: -10px;
+}
+
+.login{
+    border: 1px solid #D9D9D9; 
+    width: 500px;
+    height: 250px;
+    display: inline-block;
+    margin-top: 265px;
+    margin-left: -1045px;
+}
+
+#Matrícula{
+    width: 490px;
+}
+
+.Mat{
+    display: inline-block;
+    margin-top: 10px;
+}
+
+#Senha{
+    width: 490px;
+}
+
+.Sen{
+    margin-top: 25px;
+}
+
+h2{
+    text-align: center;
+}
+
+#butao1{
+    display: inline-block;
+    margin-left: 230px;
+}
+
+body{
+    background-color: #D9D9D9;
+}

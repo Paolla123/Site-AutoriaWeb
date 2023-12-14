@@ -1,0 +1,138 @@
+.container{
+    background-color: #5F6368;
+    box-shadow: 5px 5px 5px #0000001c;
+    width: 300px;
+    height: 780px;
+    margin-top: -9px;
+    margin-left: -10px;
+}
+
+.icones{
+    width: 180px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.perfil{
+    width: 60px;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+}
+
+.icones2{
+
+    width: 180px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.pasta{
+    width: 55px;
+    height: 55px;
+}
+
+.icones3{
+    width: 180px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.pessoas{
+    width: 55px;
+    height: 55px;
+}
+
+.icones4{
+
+    width: 180px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.extensões{
+    width: 55px;
+    height: 55px;
+}
+
+h3{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.img-pai{
+    width: 300px;
+    height: 300;
+    box-shadow: 5px 5px 5px #0000001c;
+    margin-top: -730px;
+    margin-left: 400px;
+    display: flex;
+}
+
+.img-pai2{
+    width: 300px;
+    height: 300;
+    box-shadow: 5px 5px 5px #0000001c;
+    margin-top: 175px;
+    margin-left: 400px;
+    display: flex;
+}
+
+
+#bloco1{
+    width: 400px;
+    height: 60px;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    margin-top: -520px;
+    margin-left: 900px;
+    display: flex;
+}
+
+#bloco2{
+    width: 400px;
+    height: 60px;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 900px;
+    display: flex;
+}
+
+#bloco3{
+    width: 400px;
+    height: 60px;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 900px;
+    display: flex;
+}
+
+#bloco4{
+    width: 400px;
+    height: 60px;
+    background-color: #D9D9D9;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 900px;
+    display: flex;
+}
+
+h4{
+    margin-top: -30px;
+    margin-left: 20px;
+}
+
+body{
+    background-color: #D4C9B4;
+}
